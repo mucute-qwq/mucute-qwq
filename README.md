@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mucute-qwq
-- 👀 I’m interested in Minecraft Bedrock
+- 👀 I’m interested in MCP
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on none
+- 💞️ I’m looking to collaborate on IDE
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Forever MuCute
